@@ -23,7 +23,7 @@ I work across the complete development lifecycle—from requirements gathering t
 ## Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ranju-mallik)
 &nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Captain_Per0xide)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Captain-Per0xide)
 &nbsp;
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mallikranju294@gmail.com)
 
@@ -52,14 +52,14 @@ I work across the complete development lifecycle—from requirements gathering t
 ---
 
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=Captain_Per0xide&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Captain_Per0xide&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Captain_Per0xide&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Captain-Per0xide&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Captain-Per0xide&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Captain-Per0xide&theme=radical)
 
 ---
 
 ## GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=Captain_Per0xide&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=Captain-Per0xide&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 ---
 
