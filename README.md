@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/ranju-mallik" target="_blank">
-    <img src="github-header-image.png" alt="Ranju Mallik – Software Developer Banner"/>
+    <img src="Banner.png" alt="Ranju Mallik – Software Developer Banner"/>
   </a>
 </p>
 
