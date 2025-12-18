@@ -30,7 +30,7 @@ I work across the complete development lifecycle—from requirements gathering t
 ---
 
 ## Technical Skills
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,php,java,golang,rust,flutter,electron,supabase,mongodb,postgres,git,linux&perline=10)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,java,golang,rust,flutter,electron,supabase,mongodb,postgres,git,linux&perline=10)](https://skillicons.dev)
 
 ---
 
